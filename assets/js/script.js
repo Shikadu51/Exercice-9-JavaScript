@@ -67,14 +67,14 @@ if ($(this).hasClass("winner")) {
 });
 
 // Si aucune correspondance, augmenter le nombre et ajouter l'image appropriée.
-if (matchFound == false) {
-wrong + 1;
+if (matchFound === false) {
+wrong += 1;
 $("#pendu").attr("src", "/assets/pendu/" + wrong + ".png");
 }
 
 // Loose
 //GESTION des neuf tentatives possible
-if (wrong == 9) {
+if (wrong === 9) {
 $("#container").hide();
 $("button").prop("disabled", "true");
 $(".categorie").text(
