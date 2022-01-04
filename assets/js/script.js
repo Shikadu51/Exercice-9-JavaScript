@@ -5,7 +5,7 @@ $(document).ready(function () {
 "congestionnent",
 "zigouillerions",
 "transformation",
-"réchapperaient",
+"rechapperaient",
 "inventorieront",
 ],
 ];
