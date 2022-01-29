@@ -1,20 +1,24 @@
 $(document).ready(function () {
-    // Stockage des mots de 14 lettres. 
+    // Stockage des mots de 9 lettres. 
     var tableau = [
       [
-"congestionnent",
-"zigouillerions",
-"transformation",
-"rechapperaient",
-"inventorieront",
-"hypoglycemique",
-"psychophysique",
-"hypocycloidaux",
-"tachyphylaxies",
-"cyclothymiques",
-"zygophyllacees",
-"polyvinyliques",
-"schizothymique",
+"hydroxyde",
+"hydroxyle",
+"hypoxique",
+"oxhydryle",
+"asphyxiez",
+"hypophyse",
+"jazziques",
+"kazatchok",
+"vouvoyiez",
+"lycophyte",
+"oxygeniez",
+"playbacks",
+"expliquez",
+"fourvoyez",
+"glycolyse",
+"kayakiste",
+"kystiques",
 ],
 ];
 
