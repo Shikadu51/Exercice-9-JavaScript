@@ -7,6 +7,14 @@ $(document).ready(function () {
 "transformation",
 "rechapperaient",
 "inventorieront",
+"hypoglycemique",
+"psychophysique",
+"hypocycloidaux",
+"tachyphylaxies",
+"cyclothymiques",
+"zygophyllacees",
+"polyvinyliques",
+"schizothymique",
 ],
 ];
 
