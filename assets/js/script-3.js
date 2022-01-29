@@ -1,5 +1,5 @@
 $(document).ready(function () {
-    // Stockage des mots de 9 lettres. 
+    // Stockage des mots de 12 lettres. 
     var tableau = [
       [
 "glycolytique",
