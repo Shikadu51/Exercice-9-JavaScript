@@ -6,9 +6,51 @@ body {
 
 h1 {
     font-style: italic;
-    color: grey;
+    color: #c0dFEF;
+	margin-bottom: 150px;
+	margin-top: 50px;
+	font-family: cursive;
 }
 
+ul {
+	color: #4ABDAC;
+    display: flex;
+    justify-content: space-around;
+    padding: 12px;
+    font-family: fantasy;
+  }
+  
+  ul li {
+    list-style: none;
+  }
+  
+  ul li a {
+    color: #c0dFEF;
+    font-size: 20px;
+    text-decoration: none;
+  }
+  
+  a {
+    color: blue;
+    text-decoration: none;
+  }
+
+  p {
+    color: #c0dFEF;
+    font-size: 1em;
+    line-height: 1.5em;
+    text-align: center;
+    font-family: cursive;
+  }
+
+  h3{
+	  color: #c0dFEF;
+    font-size: 1em;
+    line-height: 1.5em;
+    text-align: center;
+    font-family: cursive;
+  }
+  
 #icon {
 	height: 100px;
 	display: block;
@@ -29,11 +71,12 @@ img {
 	color: #EFEFEF; /*light gray */
 	border: 1px solid; /*green*/
 	background: #4ABDAC; /*green*/
-	width: 45px;
-	height: 45px;
+	width: 40px;
+	height: 40px;
 	font-size: 14px;
 	text-transform: uppercase;
 	margin-right: 5px;
+	margin-top: 5px;
 	display: inline-block;
 	line-height: 45px;
 }
