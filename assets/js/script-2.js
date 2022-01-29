@@ -18,7 +18,6 @@ $(document).ready(function () {
 "fourvoyez",
 "glycolyse",
 "kayakiste",
-"kystiques",
 ],
 ];
 
